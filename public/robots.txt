@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qahwa-house.vercel.app/sitemap.xml

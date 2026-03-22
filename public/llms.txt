@@ -1,0 +1,26 @@
+# Qahwa House — Specialty Coffee Roastery & Café Dubai
+
+## About
+Qahwa House is a specialty coffee roastery and café located in Dubai Design District (d3).
+Founded in 2021 by Layla and Omar Al-Rashid.
+
+## Services
+- Specialty espresso drinks (Desert Rose Latte, Saffron Cortado, Cardamom Flat White)
+- Pour-over bar with rotating single-origin coffees
+- Cold brew and seasonal drinks
+- Light kitchen menu (Za'atar croissant, shakshuka, toasts)
+- In-house roastery with 12kg Probat roaster
+- Wholesale bean orders
+- Corporate events and roastery tours
+
+## Location
+Unit G-04, Building 7, Dubai Design District (d3), Dubai, UAE
+
+## Hours
+Monday–Friday: 7:00am–9:00pm
+Saturday–Sunday: 8:00am–10:00pm
+
+## Contact
+Phone: +971 4 123 4567
+WhatsApp: +971 4 123 4567
+Website: https://qahwa-house.vercel.app
