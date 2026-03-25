@@ -136,8 +136,8 @@ function Hero() {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="text-[#4A3F32] text-lg leading-relaxed mb-10 max-w-lg"
           >
-            Single-origin beans roasted in-house. Expert baristas who care about your cup. 
-            A warm corner of Dubai where every visit feels like a ritual.
+            Single-origin micro-lots, roasted in-house on a 12kg Probat.
+            You can smell the Wednesday roast from the street. Come find out why.
           </motion.p>
 
           <motion.div
@@ -251,10 +251,10 @@ function Menu() {
           transition={{ duration: 0.7 }}
           className="mb-16"
         >
-          <span className="text-xs font-bold uppercase tracking-widest text-[#C4622D]">— Our Menu</span>
+          <span className="text-xs font-bold uppercase tracking-widest text-[#C4622D]">— The Roast</span>
           <h2 className="text-5xl md:text-6xl font-black text-[#2C2416] mt-4" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
-            Every cup,<br />
-            <span className="font-serif italic text-[#C4622D]">a story.</span>
+            What&apos;s on<br />
+            <span className="font-serif italic text-[#C4622D]">the bar today.</span>
           </h2>
         </motion.div>
 
@@ -324,15 +324,16 @@ function Menu() {
           </div>
           <div>
             <h3 className="text-3xl md:text-4xl font-black text-[#2C2416] mb-6" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
-              Roasted in-house,<br />
-              <span className="font-serif italic text-[#C4622D]">served with pride.</span>
+              Ethiopia. Yemen.<br />
+              <span className="font-serif italic text-[#C4622D]">Your cup, this morning.</span>
             </h3>
             <p className="text-[#4A3F32] leading-relaxed mb-6">
-              We source micro-lot coffees directly from farms across Ethiopia, Yemen, Colombia, and Guatemala. 
-              Our small-batch roaster in d3 ensures every bag leaves at peak flavour — never stale, never compromised.
+              We buy direct from farms in Ethiopia, Yemen, Colombia, and Guatemala — paying above Fair Trade
+              because quality starts at the source. Our Probat roaster runs Monday to Friday.
+              By Saturday, those beans are in your cup.
             </p>
             <a href="#contact" className="inline-flex items-center gap-2 text-[#C4622D] font-semibold hover:gap-4 transition-all">
-              Order beans to take home
+              Take home a bag
               <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>
@@ -463,14 +464,14 @@ function Gallery() {
           className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between gap-4"
         >
           <div>
-            <span className="text-xs font-bold uppercase tracking-widest text-[#C4622D]">— Gallery</span>
+            <span className="text-xs font-bold uppercase tracking-widest text-[#C4622D]">— In the Cup</span>
             <h2 className="text-5xl md:text-6xl font-black text-[#2C2416] mt-4" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
-              Behind the<br />
-              <span className="font-serif italic text-[#C4622D]">counter.</span>
+              This is what<br />
+              <span className="font-serif italic text-[#C4622D]">obsession looks like.</span>
             </h2>
           </div>
           <p className="text-[#8A7E72] max-w-sm">
-            Every cup is a tiny work of art. Come see us in action — or follow us at @qahwahouse.
+            From origin to extraction, every variable is controlled. Follow the craft at @qahwahouse.
           </p>
         </motion.div>
 
@@ -541,10 +542,10 @@ function Testimonials() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <span className="text-xs font-bold uppercase tracking-widest text-[#C4622D]">— What People Say</span>
+          <span className="text-xs font-bold uppercase tracking-widest text-[#C4622D]">— The Regulars</span>
           <h2 className="text-5xl md:text-6xl font-black text-[#2C2416] mt-4" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
-            Our regulars<br />
-            <span className="font-serif italic text-[#C4622D]">say it best.</span>
+            They came once.<br />
+            <span className="font-serif italic text-[#C4622D]">They never stopped.</span>
           </h2>
         </motion.div>
 
